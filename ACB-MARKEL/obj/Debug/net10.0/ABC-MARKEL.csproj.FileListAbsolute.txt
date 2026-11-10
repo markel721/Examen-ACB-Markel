@@ -1,0 +1,14 @@
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\bin\Debug\net10.0\ABC-MARKEL.exe
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\bin\Debug\net10.0\ABC-MARKEL.deps.json
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\bin\Debug\net10.0\ABC-MARKEL.runtimeconfig.json
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\bin\Debug\net10.0\ABC-MARKEL.dll
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\bin\Debug\net10.0\ABC-MARKEL.pdb
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.AssemblyInfoInputs.cache
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.AssemblyInfo.cs
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.csproj.CoreCompileInputs.cache
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.dll
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\refint\ABC-MARKEL.dll
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.pdb
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ABC-MARKEL.genruntimeconfig.cache
+C:\Users\marke\Documents\ABCExamenMarkel\ABC-MARKEL\obj\Debug\net10.0\ref\ABC-MARKEL.dll

@@ -1,0 +1,34 @@
+Jornada 1 | Bilbao Basket 77-95 Valencia Basket | MVP: Jean Montero (Valencia Basket) - 22 pts, 5 asist., 10 reb.
+Jornada 2 | Valencia Basket 82-102 Unicaja Baloncesto | MVP: Kendrick Perry (Unicaja Baloncesto) - 30 pts, 8 asist., 6 reb.
+Jornada 3 | Valencia Basket 104-74 UCAM Murcia Club de Baloncesto | MVP: Dylan Ennis (UCAM Murcia Club de Baloncesto) - 32 pts, 11 asist., 5 reb.
+Jornada 4 | Basket Zaragoza 80-98 Valencia Basket | MVP: Chris Jones (Valencia Basket) - 29 pts, 5 asist., 3 reb.
+Jornada 5 | Valencia Basket 82-71 Real Madrid Baloncesto | MVP: Mario Hezonja (Real Madrid Baloncesto) - 21 pts, 3 asist., 11 reb.
+Jornada 6 | Fundación Club Baloncesto Granada 88-71 Valencia Basket | MVP: Sergi García (Fundación Club Baloncesto Granada) - 24 pts, 2 asist., 2 reb.
+Jornada 7 | Valencia Basket 104-93 Força Lleida Club Esportiu | MVP: Semi Ojeleye (Valencia Basket) - 26 pts, 2 asist., 3 reb.
+Jornada 8 | Club Baloncesto Canarias 82-73 Valencia Basket | MVP: Bruno Fitipaldo (Club Baloncesto Canarias) - 26 pts, 3 asist., 5 reb.
+Jornada 9 | Valencia Basket 86-92 Club Baloncesto San Pablo Burgos | MVP: Dani Díez (Club Baloncesto San Pablo Burgos) - 22 pts, 3 asist., 8 reb.
+Jornada 10 | FC Barcelona Baloncesto 84-69 Valencia Basket | MVP: Kevin Punter (FC Barcelona Baloncesto) - 20 pts, 9 asist., 12 reb.
+Jornada 11 | Bàsquet Club Andorra 77-85 Valencia Basket | MVP: Jerrick Harding (Bàsquet Club Andorra) - 30 pts, 11 asist., 11 reb.
+Jornada 12 | Valencia Basket 83-80 Saski Baskonia | MVP: Chris Jones (Valencia Basket) - 24 pts, 11 asist., 10 reb.
+Jornada 13 | Club Baloncesto Gran Canaria 100-96 Valencia Basket | MVP: Mike Tobey (Club Baloncesto Gran Canaria) - 29 pts, 6 asist., 11 reb.
+Jornada 14 | Valencia Basket 100-73 Club Joventut Badalona | MVP: Chris Jones (Valencia Basket) - 26 pts, 11 asist., 6 reb.
+Jornada 15 | Club Baloncesto Breogán 89-76 Valencia Basket | MVP: Chris Jones (Valencia Basket) - 31 pts, 3 asist., 2 reb.
+Jornada 16 | Valencia Basket 86-94 Bàsquet Manresa | MVP: Cameron Hunt (Bàsquet Manresa) - 31 pts, 8 asist., 8 reb.
+Jornada 17 | Bàsquet Girona 99-77 Valencia Basket | MVP: Juani Marcos (Bàsquet Girona) - 21 pts, 4 asist., 4 reb.
+Jornada 18 | Valencia Basket 88-76 Bilbao Basket | MVP: Semi Ojeleye (Valencia Basket) - 17 pts, 6 asist., 9 reb.
+Jornada 19 | Unicaja Baloncesto 98-75 Valencia Basket | MVP: Kendrick Perry (Unicaja Baloncesto) - 25 pts, 9 asist., 3 reb.
+Jornada 20 | UCAM Murcia Club de Baloncesto 72-90 Valencia Basket | MVP: Jean Montero (Valencia Basket) - 26 pts, 2 asist., 4 reb.
+Jornada 21 | Valencia Basket 102-72 Basket Zaragoza | MVP: Jean Montero (Valencia Basket) - 18 pts, 8 asist., 3 reb.
+Jornada 22 | Real Madrid Baloncesto 82-71 Valencia Basket | MVP: Facundo Campazzo (Real Madrid Baloncesto) - 30 pts, 8 asist., 9 reb.
+Jornada 23 | Valencia Basket 97-101 Fundación Club Baloncesto Granada | MVP: Sergi García (Fundación Club Baloncesto Granada) - 26 pts, 5 asist., 7 reb.
+Jornada 24 | Força Lleida Club Esportiu 78-89 Valencia Basket | MVP: Luka Bozic (Força Lleida Club Esportiu) - 32 pts, 4 asist., 2 reb.
+Jornada 25 | Valencia Basket 93-76 Club Baloncesto Canarias | MVP: Jean Montero (Valencia Basket) - 21 pts, 4 asist., 11 reb.
+Jornada 26 | Club Baloncesto San Pablo Burgos 74-86 Valencia Basket | MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) - 20 pts, 9 asist., 9 reb.
+Jornada 27 | Valencia Basket 101-98 FC Barcelona Baloncesto | MVP: Jean Montero (Valencia Basket) - 18 pts, 9 asist., 2 reb.
+Jornada 28 | Valencia Basket 89-71 Bàsquet Club Andorra | MVP: Semi Ojeleye (Valencia Basket) - 28 pts, 7 asist., 10 reb.
+Jornada 29 | Saski Baskonia 92-90 Valencia Basket | MVP: Chima Moneke (Saski Baskonia) - 25 pts, 6 asist., 4 reb.
+Jornada 30 | Valencia Basket 77-84 Club Baloncesto Gran Canaria | MVP: Mike Tobey (Club Baloncesto Gran Canaria) - 24 pts, 4 asist., 12 reb.
+Jornada 31 | Club Joventut Badalona 92-83 Valencia Basket | MVP: Ante Tomic (Club Joventut Badalona) - 30 pts, 5 asist., 4 reb.
+Jornada 32 | Valencia Basket 89-75 Club Baloncesto Breogán | MVP: Jean Montero (Valencia Basket) - 28 pts, 7 asist., 7 reb.
+Jornada 33 | Bàsquet Manresa 87-70 Valencia Basket | MVP: Cameron Hunt (Bàsquet Manresa) - 19 pts, 5 asist., 2 reb.
+Jornada 34 | Valencia Basket 77-90 Bàsquet Girona | MVP: Semi Ojeleye (Valencia Basket) - 24 pts, 9 asist., 5 reb.

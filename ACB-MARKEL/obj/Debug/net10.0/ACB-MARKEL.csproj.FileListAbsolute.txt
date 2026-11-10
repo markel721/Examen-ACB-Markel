@@ -1,0 +1,14 @@
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\bin\Debug\net10.0\ACB-MARKEL.exe
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\bin\Debug\net10.0\ACB-MARKEL.deps.json
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\bin\Debug\net10.0\ACB-MARKEL.runtimeconfig.json
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\bin\Debug\net10.0\ACB-MARKEL.dll
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\bin\Debug\net10.0\ACB-MARKEL.pdb
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.AssemblyInfoInputs.cache
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.AssemblyInfo.cs
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.csproj.CoreCompileInputs.cache
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.dll
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\refint\ACB-MARKEL.dll
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.pdb
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ACB-MARKEL.genruntimeconfig.cache
+C:\Users\marke\Documents\ACBExamenMarkel\ACB-MARKEL\obj\Debug\net10.0\ref\ACB-MARKEL.dll

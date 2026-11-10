@@ -1,0 +1,34 @@
+Jornada 1 | Club Baloncesto Canarias 84-81 Saski Baskonia | MVP: Marcelinho Huertas (Club Baloncesto Canarias) - 19 pts, 7 asist., 7 reb.
+Jornada 2 | Saski Baskonia 103-93 Club Baloncesto San Pablo Burgos | MVP: Dani Díez (Club Baloncesto San Pablo Burgos) - 30 pts, 4 asist., 6 reb.
+Jornada 3 | FC Barcelona Baloncesto 81-91 Saski Baskonia | MVP: Chima Moneke (Saski Baskonia) - 32 pts, 2 asist., 11 reb.
+Jornada 4 | Saski Baskonia 76-100 Bàsquet Club Andorra | MVP: Nikos Chougkaz (Bàsquet Club Andorra) - 31 pts, 5 asist., 10 reb.
+Jornada 5 | Unicaja Baloncesto 96-84 Saski Baskonia | MVP: Markus Howard (Saski Baskonia) - 25 pts, 8 asist., 10 reb.
+Jornada 6 | Club Baloncesto Gran Canaria 105-68 Saski Baskonia | MVP: Mike Tobey (Club Baloncesto Gran Canaria) - 25 pts, 3 asist., 4 reb.
+Jornada 7 | Saski Baskonia 82-74 Club Joventut Badalona | MVP: Timothé Luwawu-Cabarrot (Saski Baskonia) - 31 pts, 5 asist., 5 reb.
+Jornada 8 | Club Baloncesto Breogán 84-94 Saski Baskonia | MVP: Markus Howard (Saski Baskonia) - 21 pts, 11 asist., 11 reb.
+Jornada 9 | Saski Baskonia 100-78 Bàsquet Manresa | MVP: Markus Howard (Saski Baskonia) - 30 pts, 6 asist., 5 reb.
+Jornada 10 | Bàsquet Girona 96-88 Saski Baskonia | MVP: Juani Marcos (Bàsquet Girona) - 26 pts, 8 asist., 6 reb.
+Jornada 11 | Saski Baskonia 101-77 Bilbao Basket | MVP: Chima Moneke (Saski Baskonia) - 32 pts, 6 asist., 11 reb.
+Jornada 12 | Valencia Basket 83-80 Saski Baskonia | MVP: Chris Jones (Valencia Basket) - 24 pts, 11 asist., 10 reb.
+Jornada 13 | Saski Baskonia 77-78 UCAM Murcia Club de Baloncesto | MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) - 18 pts, 4 asist., 2 reb.
+Jornada 14 | Saski Baskonia 101-99 Basket Zaragoza | MVP: Markus Howard (Saski Baskonia) - 26 pts, 7 asist., 12 reb.
+Jornada 15 | Real Madrid Baloncesto 104-85 Saski Baskonia | MVP: Facundo Campazzo (Real Madrid Baloncesto) - 31 pts, 5 asist., 9 reb.
+Jornada 16 | Saski Baskonia 81-72 Fundación Club Baloncesto Granada | MVP: Markus Howard (Saski Baskonia) - 26 pts, 11 asist., 8 reb.
+Jornada 17 | Força Lleida Club Esportiu 90-102 Saski Baskonia | MVP: Markus Howard (Saski Baskonia) - 27 pts, 11 asist., 6 reb.
+Jornada 18 | Saski Baskonia 89-78 Club Baloncesto Canarias | MVP: Markus Howard (Saski Baskonia) - 25 pts, 7 asist., 3 reb.
+Jornada 19 | Club Baloncesto San Pablo Burgos 98-85 Saski Baskonia | MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) - 22 pts, 9 asist., 9 reb.
+Jornada 20 | Saski Baskonia 88-71 FC Barcelona Baloncesto | MVP: Markus Howard (Saski Baskonia) - 32 pts, 3 asist., 3 reb.
+Jornada 21 | Bàsquet Club Andorra 98-74 Saski Baskonia | MVP: Shannon Evans (Bàsquet Club Andorra) - 24 pts, 7 asist., 4 reb.
+Jornada 22 | Saski Baskonia 72-79 Unicaja Baloncesto | MVP: Chima Moneke (Saski Baskonia) - 28 pts, 3 asist., 4 reb.
+Jornada 23 | Saski Baskonia 74-95 Club Baloncesto Gran Canaria | MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) - 26 pts, 11 asist., 8 reb.
+Jornada 24 | Club Joventut Badalona 101-96 Saski Baskonia | MVP: Ante Tomic (Club Joventut Badalona) - 25 pts, 3 asist., 12 reb.
+Jornada 25 | Saski Baskonia 99-100 Club Baloncesto Breogán | MVP: Toni Nakic (Club Baloncesto Breogán) - 25 pts, 4 asist., 5 reb.
+Jornada 26 | Bàsquet Manresa 86-96 Saski Baskonia | MVP: Derrick Alston Jr (Bàsquet Manresa) - 29 pts, 2 asist., 8 reb.
+Jornada 27 | Saski Baskonia 104-69 Bàsquet Girona | MVP: Markus Howard (Saski Baskonia) - 17 pts, 8 asist., 7 reb.
+Jornada 28 | Bilbao Basket 77-88 Saski Baskonia | MVP: Markus Howard (Saski Baskonia) - 30 pts, 11 asist., 8 reb.
+Jornada 29 | Saski Baskonia 92-90 Valencia Basket | MVP: Chima Moneke (Saski Baskonia) - 25 pts, 6 asist., 4 reb.
+Jornada 30 | UCAM Murcia Club de Baloncesto 81-78 Saski Baskonia | MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) - 26 pts, 11 asist., 2 reb.
+Jornada 31 | Basket Zaragoza 103-87 Saski Baskonia | MVP: Santi Yusta (Basket Zaragoza) - 28 pts, 10 asist., 9 reb.
+Jornada 32 | Saski Baskonia 81-100 Real Madrid Baloncesto | MVP: Walter Tavares (Real Madrid Baloncesto) - 26 pts, 4 asist., 8 reb.
+Jornada 33 | Fundación Club Baloncesto Granada 102-101 Saski Baskonia | MVP: Amine Noua (Fundación Club Baloncesto Granada) - 30 pts, 10 asist., 7 reb.
+Jornada 34 | Saski Baskonia 78-94 Força Lleida Club Esportiu | MVP: Oriol Paulí (Força Lleida Club Esportiu) - 19 pts, 4 asist., 2 reb.
